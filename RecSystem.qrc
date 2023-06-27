@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/">
+    <file>default_icons/check_checked.png</file>
+    <file>default_icons/check_unchecked.png</file>
+    <file>default_icons/radio_checked.png</file>
+    <file>default_icons/radio_unchecked.png</file>
+    <file>default_icons/bigsize.png</file>
+    <file>default_icons/default_avatar.png</file>
+    <file>default_icons/home.png</file>
+    <file>default_icons/smallsize.png</file>
+    <file>楷体_GB2312.ttf</file>
+  </qresource>
+</RCC>
